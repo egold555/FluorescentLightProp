@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "sketch": "FluorescentLight.ino",
+    "port": "COM13",
+    "programmer": "AVRISP mkII",
+    "configuration": "cpu=atmega328old"
+}
